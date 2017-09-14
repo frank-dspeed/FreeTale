@@ -4,7 +4,7 @@
   "version": "0.2.0-17",
   "dependencies": {
     "socket.io": "1.5.1",
-    "node-static": "0.7.9",
+    "node-static": "0.7.10",
     "geoip": "0.6.1"
   },
   "domains": [
